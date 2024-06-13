@@ -1,0 +1,32 @@
+{
+    "fitbitWeekOverviewItems": [
+        {
+            "steps": 10256,
+            "displayText": "Today\t10256 steps"
+        },
+        {
+            "steps": 13214,
+            "displayText": "Friday\t13214 steps"
+        },
+        {
+            "steps": 10554,
+            "displayText": "Thursday\t10554 steps"
+        },
+        {
+            "steps": 12942,
+            "displayText": "Wednesday\t12942 steps"
+        },
+        {
+            "steps": 9478,
+            "displayText": "Tuesday\t9478 steps"
+        },
+        {
+            "steps": 10690,
+            "displayText": "Monday\t10690 steps"
+        },
+        {
+            "steps": 12792,
+            "displayText": "Sunday\t12792 steps"
+        }
+    ]
+}
